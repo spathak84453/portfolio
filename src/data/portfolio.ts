@@ -26,14 +26,14 @@ export const profile = {
   email: "spathak84453@gmail.com",
   resumeUrl: "resume/SachinPathak2026-May.pdf",
   linkedIn: "https://www.linkedin.com/in/sachin-pathak-a5a29b1ab/",
-  github: "https://spathak84453.github.io/",
+  github: "https://github.com/spathak84453",
   twitter: "",
   portfolio: "",
   yearsExperience: 4,
   intro:
-    "Senior Software Engineer specializing in Azure OpenAI, Prompt Flow, RAG, Azure Cognitive Search, Azure Databricks, PySpark, Snowflake, and production cloud workflows for enterprise-scale AI platforms.",
+    "Senior Software Engineer specializing in Generative AI, Agentic AI, Retrieval-Augmented Generation (RAG), Azure Cognitive Search, Azure Databricks, PySpark, Snowflake, and production-grade cloud workflows for enterprise-scale AI platforms.",
   about:
-    "I build production-ready AI and data engineering systems that turn enterprise documents, CRM data, and multilingual content into reliable business workflows. My work spans prompt orchestration, hallucination mitigation, document intelligence, distributed data pipelines, monitoring, and Agile engineering leadership.",
+    "I build production-ready Generative AI, Agentic AI, and data engineering systems that transform enterprise documents, CRM data, and multilingual content into reliable business workflows. My work spans prompt orchestration, RAG architectures, hallucination mitigation, document intelligence, distributed data pipelines, monitoring, and Agile engineering leadership.",
   strengths: [
     "Enterprise-scale AI delivery with measurable adoption and user impact",
     "Strong ownership across architecture, implementation, performance tuning, and monitoring",
@@ -68,7 +68,7 @@ export const socialLinks: LinkItem[] = [
 export const quickFacts = [
   { icon: BriefcaseBusiness, label: "Current Company", value: "MAQ Software" },
   { icon: MapPin, label: "Location", value: "Noida, India" },
-  { icon: Sparkles, label: "Focus", value: "AI, RAG, Cloud Data" },
+  { icon: Sparkles, label: "Focus", value: "Gen AI, Agentic AI, RAG, and Cloud Data Engineering." },
   { icon: GraduationCap, label: "Education", value: "B.Tech IT" }
 ];
 
@@ -235,13 +235,13 @@ export const certifications: Certification[] = [
   {
     name: "Microsoft Certified: Azure AI Engineer Associate",
     issuer: "Microsoft",
-    date: "Date not listed in resume",
+    date: "",
     highlight: "Validates Azure AI solution design, implementation, and operational knowledge."
   },
   {
     name: "Databricks Certified: Data Engineer Associate",
     issuer: "Databricks",
-    date: "Date not listed in resume",
+    date: "",
     highlight: "Validates lakehouse, ETL, data pipeline, and Databricks engineering capabilities."
   }
 ];

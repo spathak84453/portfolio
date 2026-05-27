@@ -15,7 +15,7 @@ export function GitHubContributions() {
       <SectionHeading
         eyebrow="GitHub"
         title="Contribution-ready section"
-        description="The resume did not include a GitHub URL, so this block is ready to connect once the profile link is added."
+        description="Connect with me on GitHub to explore AI engineering, cloud-native solutions, enterprise-scale platforms, and open-source projects."
       />
       <div className="glass-panel rounded-2xl p-6">
         <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">

@@ -46,7 +46,8 @@ export function Contact() {
       <SectionHeading
         eyebrow="Contact"
         title="Let’s Build Something Useful"
-        description="Reach out for enterprise AI, data engineering, Azure OpenAI, RAG, or cloud workflow opportunities."
+        description="Reach out for opportunities in enterprise AI, Generative AI, Agentic AI, data engineering, Azure OpenAI, RAG, and cloud workflow engineering.
+"
       />
 
       <div className="grid gap-6 lg:grid-cols-[0.85fr_1.15fr]">

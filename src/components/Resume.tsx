@@ -17,7 +17,7 @@ export function Resume() {
         <div>
           <h3 className="font-display text-2xl font-bold">{profile.name} - Resume</h3>
           <p className="mt-2 text-ink-700 dark:text-ink-200">
-            Senior Software Engineer 1 with enterprise AI, Azure OpenAI, RAG, Databricks, PySpark, and cloud data engineering experience.
+            Senior Software Engineer I with expertise in Generative AI, Agentic AI, enterprise AI, Azure OpenAI, RAG, Databricks, PySpark, and cloud data engineering.
           </p>
         </div>
         <div className="flex flex-col gap-3 sm:flex-row md:flex-col">

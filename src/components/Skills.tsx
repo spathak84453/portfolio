@@ -16,7 +16,7 @@ export function Skills() {
       <SectionHeading
         eyebrow="Tech Stack & Skills"
         title="Cloud AI, data engineering, and delivery toolkit"
-        description="Technologies extracted from the resume, grouped into practical categories with proficiency indicators."
+        description=""
       />
 
       <div className="mb-8 flex gap-2 overflow-x-auto pb-2">

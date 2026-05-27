@@ -32,12 +32,6 @@ export function Hero() {
   return (
     <section id="home" className="relative isolate min-h-screen overflow-hidden bg-mesh-light pt-24 dark:bg-mesh-dark">
       <div className="absolute inset-0 -z-20">
-        <img
-          src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1800&q=80"
-          alt=""
-          className="h-full w-full object-cover opacity-[0.18] mix-blend-multiply dark:opacity-[0.16] dark:mix-blend-screen"
-          loading="eager"
-        />
       </div>
       <div className="absolute inset-0 -z-10 bg-gradient-to-b from-white/80 via-white/62 to-ink-50 dark:from-ink-950/92 dark:via-ink-950/72 dark:to-ink-950" />
 
