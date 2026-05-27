@@ -2,7 +2,7 @@
 
 Modern personal portfolio for Sachin Pathak, built from resume-extracted information and focused on enterprise AI, Azure OpenAI, RAG, cloud data engineering, Azure Databricks, PySpark, and production-grade engineering delivery.
 
-Production URL: `https://spathak84453.github.io/portfolio/`
+Production URL: `https://spathak84453.github.io/`
 
 ## Features
 
@@ -100,7 +100,7 @@ git init
 git add .
 git commit -m "Initial portfolio website"
 git branch -M main
-git remote add origin https://github.com/spathak84453/portfolio.git
+git remote add origin https://github.com/spathak84453/spathak84453.github.io.git
 git push -u origin main
 ```
 
