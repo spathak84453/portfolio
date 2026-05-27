@@ -2,7 +2,7 @@
 
 Modern personal portfolio for Sachin Pathak, built from resume-extracted information and focused on enterprise AI, Azure OpenAI, RAG, cloud data engineering, Azure Databricks, PySpark, and production-grade engineering delivery.
 
-Production GitHub Pages target: `https://sachin9837.github.io/`
+Production URL: `https://sachinportfolio.io/`
 
 ## Features
 
