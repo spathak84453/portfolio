@@ -26,7 +26,7 @@ export const profile = {
   email: "spathak84453@gmail.com",
   resumeUrl: "resume/SachinPathak2026-May.pdf",
   linkedIn: "https://www.linkedin.com/in/sachin-pathak-a5a29b1ab/",
-  github: "",
+  github: "https://spathak84453.github.io/",
   twitter: "",
   portfolio: "",
   yearsExperience: 4,
@@ -52,8 +52,8 @@ export const profile = {
     "Azure OpenAI Engineer",
     "Generative AI Specialist",
     "RAG Solution Builder",
-    "Azure Databricks Developer",
     "PySpark Data Engineer",
+    "Python Developer",
     "Prompt Flow Architect"
   ]
 };
@@ -74,6 +74,7 @@ export const quickFacts = [
 
 export const skills: Skill[] = [
   { name: "Python", category: "Programming Languages", level: 92, highlight: true },
+  { name: "Generative AI", category: "AI / GenAI", level: 92, highlight: true },
   { name: "PySpark", category: "Programming Languages", level: 90, highlight: true },
   { name: "SQL", category: "Programming Languages", level: 88, highlight: true },
   { name: "Azure OpenAI", category: "AI / GenAI", level: 94, highlight: true },
@@ -89,16 +90,11 @@ export const skills: Skill[] = [
   { name: "Azure Data Factory", category: "Data Engineering", level: 86 },
   { name: "Azure Databricks", category: "Data Engineering", level: 90, highlight: true },
   { name: "Azure Logic Apps", category: "Cloud Platforms", level: 88 },
-  { name: "Snowflake", category: "Databases", level: 84 },
   { name: "Azure Data Explorer", category: "Databases", level: 82 },
   { name: "ADLS Gen2", category: "Cloud Platforms", level: 86 },
-  { name: "Azure Cognitive Search", category: "AI / GenAI", level: 90, highlight: true },
-  { name: "Azure AI Services", category: "AI / GenAI", level: 88 },
   { name: "Azure Document Intelligence", category: "AI / GenAI", level: 86 },
   { name: "Azure Cognitive Services", category: "AI / GenAI", level: 84 },
-  { name: "Azure Application Insights", category: "Tools & Platforms", level: 86 },
   { name: "Azure DevOps", category: "Tools & Platforms", level: 82 },
-  { name: "Docker", category: "DevOps", level: 78 },
   { name: "React", category: "Frontend", level: 72 },
   { name: "TypeScript", category: "Frontend", level: 74 },
   { name: "Tailwind CSS", category: "Frontend", level: 72 },

@@ -1,7 +1,6 @@
 import { About } from "../components/About";
 import { Achievements } from "../components/Achievements";
 import { BackToTop } from "../components/BackToTop";
-import { Blog } from "../components/Blog";
 import { Contact } from "../components/Contact";
 import { ExperienceTimeline } from "../components/Experience";
 import { Footer } from "../components/Footer";
@@ -12,7 +11,6 @@ import { Projects } from "../components/Projects";
 import { Resume } from "../components/Resume";
 import { Skills } from "../components/Skills";
 import { TechCloud } from "../components/TechCloud";
-import { Testimonials } from "../components/Testimonials";
 import { useEffect } from "react";
 
 export function PortfolioPage() {
@@ -44,8 +42,6 @@ export function PortfolioPage() {
         <Achievements />
         <Resume />
         <GitHubContributions />
-        <Testimonials />
-        <Blog />
         <Contact />
       </main>
       <Footer />
