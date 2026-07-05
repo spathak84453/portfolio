@@ -63,6 +63,7 @@ export type Certification = {
   issuer: string;
   date: string;
   highlight: string;
+  credentialUrl?: string;
 };
 
 export type Education = {

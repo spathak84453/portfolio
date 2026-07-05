@@ -233,16 +233,28 @@ export const projects: Project[] = [
 
 export const certifications: Certification[] = [
   {
-    name: "Microsoft Certified: Azure AI Engineer Associate",
+    name: "Microsoft Certified: Azure AI Apps and Agents Developer Associate",
     issuer: "Microsoft",
-    date: "",
-    highlight: "Validates Azure AI solution design, implementation, and operational knowledge."
+    date: "Earned June 2026 · Expires June 2027",
+    highlight: "Validates designing and building AI apps and agents on Azure using Azure AI Foundry, Azure OpenAI, and agentic workflows.",
+    credentialUrl:
+      "https://learn.microsoft.com/api/credentials/share/en-us/SachinPathakMAQSoftware-4670/25778DE8B108CD5C?sharingId=59E180372672D6B2"
   },
   {
-    name: "Databricks Certified: Data Engineer Associate",
-    issuer: "Databricks",
-    date: "",
-    highlight: "Validates lakehouse, ETL, data pipeline, and Databricks engineering capabilities."
+    name: "GitHub Copilot",
+    issuer: "GitHub",
+    date: "Earned June 2026 · Expires June 2028",
+    highlight: "Validates proficiency using GitHub Copilot for AI-assisted software development, code review, and productivity workflows.",
+    credentialUrl:
+      "https://learn.microsoft.com/api/credentials/share/en-us/SachinPathakMAQSoftware-4670/6BC7675CBBFD5062?sharingId=59E180372672D6B2"
+  },
+  {
+    name: "Microsoft Certified: Azure Developer Associate",
+    issuer: "Microsoft",
+    date: "Earned December 2024 · Expires December 2027",
+    highlight: "Validates designing, building, testing, and maintaining cloud applications and services on Microsoft Azure.",
+    credentialUrl:
+      "https://learn.microsoft.com/api/credentials/share/en-us/SachinPathakMAQSoftware-4670/7A12D28F2F359F8B?sharingId=59E180372672D6B2"
   }
 ];
 

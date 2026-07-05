@@ -26,6 +26,17 @@ export function Achievements() {
               <h3 className="mt-2 font-display text-xl font-bold">{cert.name}</h3>
               <p className="mt-2 text-sm text-ink-700 dark:text-ink-300">{cert.date}</p>
               <p className="mt-4 text-ink-700 dark:text-ink-200">{cert.highlight}</p>
+              {cert.credentialUrl && (
+                <a
+                  href={cert.credentialUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-4 inline-flex items-center gap-1.5 text-sm font-semibold text-coral transition hover:text-coral/80"
+                >
+                  Verify credential
+                  <span aria-hidden="true">↗</span>
+                </a>
+              )}
             </motion.article>
           ))}
         </div>
